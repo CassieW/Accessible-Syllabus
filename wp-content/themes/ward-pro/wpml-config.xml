@@ -1,0 +1,13 @@
+<wpml-config>
+    <admin-texts>
+        <key name="ward_pro_theme_options">
+            <key name="read_more" />
+            <key name="jumbo_headline_title" />
+            <key name="jumbo_headline_text" />
+            <key name="jumbo_headline_button_text" />
+            <key name="copyright" />
+        </key>
+    </admin-texts>
+</wpml-config>
+
+

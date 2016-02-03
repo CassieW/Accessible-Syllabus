@@ -1,0 +1,919 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ward Pro\n"
+"POT-Creation-Date: 2015-03-12 11:43-0500\n"
+"PO-Revision-Date: 2015-03-12 11:43-0500\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:13
+msgid "404 Error"
+msgstr ""
+
+#: 404.php:16
+msgid "Sorry. We can't seem to find the page you're looking for."
+msgstr ""
+
+#: archive.php:30
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: archive.php:32
+#, php-format
+msgid "Tag Archive for %s"
+msgstr ""
+
+#: archive.php:34
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive.php:36
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:36
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:38
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:38
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: archive.php:40
+msgid "Blog Archives"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgid "1 comment for &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments for &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:41
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:42
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: content-aside.php:15
+msgid "Aside"
+msgstr ""
+
+#: content-footer.php:11
+msgid "Pages:"
+msgstr ""
+
+#: content-footer.php:12 functions.php:407 functions.php:430
+msgid "(edit)"
+msgstr ""
+
+#: content-footer.php:13
+msgid "Tags:"
+msgstr ""
+
+#: content-header.php:27
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: content-header.php:28
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: content-header.php:34
+msgid "on"
+msgstr ""
+
+#: content-header.php:44
+msgid "0 Comments"
+msgstr ""
+
+#: content-header.php:44
+msgid "1 Comment"
+msgstr ""
+
+#: content-header.php:44
+msgid "% Comments"
+msgstr ""
+
+#: content-link.php:15
+msgid "Link"
+msgstr ""
+
+#: content-none.php:14
+msgid "Nothing found"
+msgstr ""
+
+#: content-none.php:17
+msgid "No results were found. Please try again."
+msgstr ""
+
+#: content-status.php:15
+msgid "Status"
+msgstr ""
+
+#: content-status.php:21
+#, php-format
+msgid "Posted on %1$s at %2$s"
+msgstr ""
+
+#: content.php:40
+msgid "Read more &rarr;"
+msgstr ""
+
+#: footer.php:28
+#, php-format
+msgid "The %s Theme by %s."
+msgstr ""
+
+#: front-page.php:28
+msgid "Nothing Found"
+msgstr ""
+
+#: front-page.php:31
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: functions.php:89
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:90
+msgid "Social"
+msgstr ""
+
+#: functions.php:295 library/customizer.php:207
+msgid "First Sidebar"
+msgstr ""
+
+#: functions.php:297
+msgid ""
+"This is the first sidebar widgetized area. All defaults widgets work great "
+"here."
+msgstr ""
+
+#: functions.php:305
+msgid "Second Sidebar"
+msgstr ""
+
+#: functions.php:307
+msgid ""
+"This is the second sidebar widgetized area. All defaults widgets work great "
+"here."
+msgstr ""
+
+#: functions.php:315 library/about.php:169
+msgid "Home Page Top Area"
+msgstr ""
+
+#: functions.php:317
+msgid ""
+"Widgetized area on the home page directly below the navigation menu. "
+"Specifically designed for 4 text widgets. Must be turned on in the Layout "
+"options on the Theme Options admin page."
+msgstr ""
+
+#: functions.php:325
+msgid "Extended Footer"
+msgstr ""
+
+#: functions.php:327
+msgid ""
+"This is the extended footer widgetized area. Widgets will appear in three "
+"columns. All defaults widgets work great here."
+msgstr ""
+
+#: functions.php:356
+msgid "Posts navigation"
+msgstr ""
+
+#: functions.php:358
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: functions.php:362
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:406
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:411
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:430
+msgid "Pingback:"
+msgstr ""
+
+#: header.php:44
+msgid "Main menu"
+msgstr ""
+
+#: header.php:45
+msgid "Skip to content"
+msgstr ""
+
+#: library/about.php:19 library/about.php:30
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: library/about.php:30
+#, php-format
+msgid "Welcome to %s %s"
+msgstr ""
+
+#: library/about.php:84
+#, php-format
+msgid ""
+"Read through the following documentation to learn more about <em>%s</em> and "
+"how to use the available theme options. Or %scheck out the demo%s to see it "
+"in action."
+msgstr ""
+
+#: library/about.php:93
+msgid "The Customizer"
+msgstr ""
+
+#: library/about.php:99
+#, php-format
+msgid ""
+"All theme options for <em>%s</em> are controlled under %sAppearance &rarr; "
+"Customize%s. From there, you can modify layout, colors, custom menus, and "
+"more."
+msgstr ""
+
+#: library/about.php:101 library/customizer.php:147
+msgid "Boxed"
+msgstr ""
+
+#: library/about.php:103
+msgid ""
+"By default, the theme will have the Boxed option checked. That means your "
+"site will appear within a container on screens larger than the site width. "
+"Uncheck the box to turn this off."
+msgstr ""
+
+#: library/about.php:105
+msgid ""
+"You can set the background color for the space outside of your site in the "
+"Colors section of the Customizer."
+msgstr ""
+
+#: library/about.php:107
+msgid "Site &amp; Main Content Width"
+msgstr ""
+
+#: library/about.php:109
+msgid ""
+"There are two width options for your site: 1200px &amp; 992px. You can "
+"select the width of your main content, based on a 12 column grid. Resizing "
+"your main content will also resize your sidebar. If two sidebars are "
+"displayed, you can select the width of the first sidebar as well."
+msgstr ""
+
+#: library/about.php:111 library/customizer.php:232
+msgid "Sidebar Layout"
+msgstr ""
+
+#: library/about.php:113
+#, php-format
+msgid ""
+"With the sidebar layout option, you can decide whether to display your "
+"sidebar(s) on the left or right of your main content. To display two "
+"sidebars, first add a widget to the second sidebar under %sAppearance &rarr; "
+"Widgets%s. Once that&rsquo;s done, the two-sidebar option will appear."
+msgstr ""
+
+#: library/about.php:118
+msgid "Custom Menus"
+msgstr ""
+
+#: library/about.php:120
+#, php-format
+msgid ""
+"<em>%s</em> includes two Custom Menu locations: the Primary top menu and the "
+"Social menu."
+msgstr ""
+
+#: library/about.php:122
+#, php-format
+msgid ""
+"To add a navigation menu to the header, go to %sAppearance &rarr; Menus%s. "
+"By default, a list of categories will appear in this location if no custom "
+"menu is set."
+msgstr ""
+
+#: library/about.php:124
+msgid ""
+"Clicking on a top-level link in the primary navigation will open up one "
+"dropdown list of sub-menu links."
+msgstr ""
+
+#: library/about.php:126
+msgid "Social Menu"
+msgstr ""
+
+#: library/about.php:132
+#, php-format
+msgid ""
+"To use the social menu, go to %sAppearance &rarr; Menus%s and create a new "
+"menu. Call it \"Social\" just to make it easy to remember. Use the Link "
+"panel on the left to add any of the following social sites:"
+msgstr ""
+
+#: library/about.php:150
+msgid ""
+"Once you&rsquo;ve added the social sites you want with a link to each "
+"profile – like <code>https://twitter.com/bavotasan</code> – check the Social "
+"box at the bottom of the menu and click <strong>Save Menu</strong>. Your "
+"social links will now be displayed at the top right of your site."
+msgstr ""
+
+#: library/about.php:155 library/customizer.php:297
+msgid "Jumbo Headline"
+msgstr ""
+
+#: library/about.php:161
+#, php-format
+msgid ""
+"You can modify the Jumbo Headline text by going to %sAppearance &rarr; "
+"Customize%s. If you want to remove it completely, just delete each text "
+"field under the Jumbo Headline section."
+msgstr ""
+
+#: library/about.php:163 library/customizer.php:380
+msgid "Icon"
+msgstr ""
+
+#: library/about.php:164
+msgid ""
+"You can choose from over 400 different Font Awesome icons to display in your "
+"Jumbo Headline. Click <strong>View Icons</strong> to see a list of all the "
+"available icons. Clicking on an icon will select it. To remove it, just "
+"click <strong>Remove Icon</strong>."
+msgstr ""
+
+#: library/about.php:175
+#, php-format
+msgid ""
+"The section where the four widgets appear on the homepage will only display "
+"once a widget is added to the Homepage Top Area in %sAppearance &rarr; "
+"Widgets%s. The demo uses the custom Image & Text widget that comes with <em>"
+"%s</em> to display an image accompanied by text. You can even have the image "
+"and text link to a page or a post, by adding a URL in the field provided."
+msgstr ""
+
+#: library/about.php:177
+msgid ""
+"In order for your image to appear circular, be sure to upload a square "
+"image. The demo uses images that are 150px by 150px."
+msgstr ""
+
+#: library/about.php:182
+msgid "Jetpack"
+msgstr ""
+
+#: library/about.php:188
+msgid "Infinite Scroll"
+msgstr ""
+
+#: library/about.php:190
+#, php-format
+msgid ""
+"%sJetpack&rsquo;s Infinite Scroll%s allows your visitors to view all your "
+"posts without having to click through to the next page. As they scroll, new "
+"posts will be added. To activate go to %sJetpack &rarr; Settings%s. "
+msgstr ""
+
+#: library/about.php:192
+msgid "Tiled Galleries"
+msgstr ""
+
+#: library/about.php:194
+#, php-format
+msgid ""
+"%sJetpack&rsquo;s Tiled Galleries%s will display your images in a beautiful "
+"mosaic layout. Go to %sJetpack &rarr; Settings%s to turn it on. "
+msgstr ""
+
+#: library/about.php:196
+msgid "Carousel"
+msgstr ""
+
+#: library/about.php:198
+#, php-format
+msgid ""
+"With %sJetpack&rsquo;s Carousel%s, clicking on one of your gallery images "
+"will open up a featured lightbox slideshow. Turn it on by going to %sJetpack "
+"&rarr; Settings%s."
+msgstr ""
+
+#: library/about.php:203
+msgid "The Extended Footer"
+msgstr ""
+
+#: library/about.php:209
+#, php-format
+msgid ""
+"To display widgets in your footer go to %sAppearance &rarr; Widgets%s and "
+"add at least one widget to the Extended Footer area."
+msgstr ""
+
+#: library/about.php:211
+msgid ""
+"You can customize the copyright notice in the Footer section of the "
+"Customizer."
+msgstr ""
+
+#: library/about.php:216
+msgid "Shortcodes"
+msgstr ""
+
+#: library/about.php:218
+#, php-format
+msgid ""
+"<em>%s</em> comes with tons of great shortcodes to help spice up your posts "
+"and pages. Learn more by %schecking out the demo%s."
+msgstr ""
+
+#: library/about.php:223
+msgid "Full-Width Post/Page"
+msgstr ""
+
+#: library/about.php:229
+msgid ""
+"To set a full-width post or page, meaning one without any sidebars, check "
+"the box in the Layout panel when you&rsquo;re editing the post or page in "
+"the admin."
+msgstr ""
+
+#: library/about.php:234
+msgid "Pull Quotes"
+msgstr ""
+
+#: library/about.php:240
+msgid ""
+"You can easily include a pull quote within your text by using the following "
+"code within the Text/HTML editor:"
+msgstr ""
+
+#: library/about.php:242
+msgid ""
+"&lt;blockquote class=\"pullquote\"&gt;This is a pull quote that will appear "
+"within your text.&lt;/blockquote&gt;"
+msgstr ""
+
+#: library/about.php:243
+msgid "You can also align it to the right with this code:"
+msgstr ""
+
+#: library/about.php:245
+msgid ""
+"&lt;blockquote class=\"pullquote alignright\"&gt;This is a pull quote that "
+"will appear within your text.&lt;/blockquote&gt;"
+msgstr ""
+
+#: library/about.php:249
+#, php-format
+msgid ""
+"For more information, check out the %sDocumentation &amp; FAQs%s section on "
+"my site."
+msgstr ""
+
+#: library/custom-css-editor.php:19 library/custom-css-editor.php:30
+msgid "Custom CSS"
+msgstr ""
+
+#: library/custom-css-editor.php:30
+msgid "Custom CSS Editor"
+msgstr ""
+
+#: library/custom-css-editor.php:69
+msgid ""
+"/*\n"
+"Welcome to the Custom CSS editor!\n"
+"\n"
+"Please add all your custom CSS here and avoid modifying the core theme "
+"files, since that'll make upgrading the theme problematic. Your custom CSS "
+"will be loaded after the theme's stylesheets, which means that your rules "
+"will take precedence. Just add your CSS here for what you want to change, "
+"you don't need to copy all the theme's style.css content.\n"
+"*/"
+msgstr ""
+
+#: library/custom-css-editor.php:79
+msgid "Custom CSS updated."
+msgstr ""
+
+#: library/custom-css-editor.php:81
+#, php-format
+msgid "If you're new to CSS, start with a %sbeginner tutorial%s."
+msgstr ""
+
+#: library/custom-css-editor.php:94
+msgid "Save Changes"
+msgstr ""
+
+#: library/custom-metaboxes.php:16
+msgid "Home Page Alignment"
+msgstr ""
+
+#: library/custom-metaboxes.php:18 library/custom-metaboxes.php:19
+#: library/customizer.php:136
+msgid "Layout"
+msgstr ""
+
+#: library/custom-metaboxes.php:28 library/customizer.php:224
+msgid "Left"
+msgstr ""
+
+#: library/custom-metaboxes.php:30 library/customizer.php:225
+msgid "Right"
+msgstr ""
+
+#: library/custom-metaboxes.php:40
+msgid "Display at full width"
+msgstr ""
+
+#: library/customizer.php:58
+msgid "View Icons"
+msgstr ""
+
+#: library/customizer.php:58
+msgid "Remove Icon"
+msgstr ""
+
+#: library/customizer.php:86
+#, php-format
+msgid ""
+"For layout options with two sidebars, add at least one widget to the Second "
+"Sidebar area on the %sWidgets admin page%s."
+msgstr ""
+
+#: library/customizer.php:119
+msgid "Customize"
+msgstr ""
+
+#: library/customizer.php:161
+msgid "Site Width"
+msgstr ""
+
+#: library/customizer.php:167
+msgid "1200px"
+msgstr ""
+
+#: library/customizer.php:168
+msgid "992px"
+msgstr ""
+
+#: library/customizer.php:191
+msgid "Main Content"
+msgstr ""
+
+#: library/customizer.php:229
+msgid "Separate"
+msgstr ""
+
+#: library/customizer.php:247
+msgid "Post Content Display"
+msgstr ""
+
+#: library/customizer.php:253
+msgid "Teaser Excerpt"
+msgstr ""
+
+#: library/customizer.php:254
+msgid "Full Content"
+msgstr ""
+
+#: library/customizer.php:265
+msgid "\"Read More\" Text"
+msgstr ""
+
+#: library/customizer.php:273
+msgid "Light Blue"
+msgstr ""
+
+#: library/customizer.php:274
+msgid "Blue"
+msgstr ""
+
+#: library/customizer.php:275
+msgid "Red"
+msgstr ""
+
+#: library/customizer.php:276
+msgid "Yellow"
+msgstr ""
+
+#: library/customizer.php:277
+msgid "Green"
+msgstr ""
+
+#: library/customizer.php:287
+msgid "Read More Color"
+msgstr ""
+
+#: library/customizer.php:308
+msgid "Title"
+msgstr ""
+
+#: library/customizer.php:322
+msgid "Text"
+msgstr ""
+
+#: library/customizer.php:336
+msgid "Button Text"
+msgstr ""
+
+#: library/customizer.php:350
+msgid "Button Link"
+msgstr ""
+
+#: library/customizer.php:364
+msgid "Button Color"
+msgstr ""
+
+#: library/customizer.php:391
+msgid "Fonts"
+msgstr ""
+
+#: library/customizer.php:402
+msgid "Main Text"
+msgstr ""
+
+#: library/customizer.php:417 library/customizer.php:479
+msgid "Headers (h1, h2, h3, etc...)"
+msgstr ""
+
+#: library/customizer.php:432
+msgid "Post Title"
+msgstr ""
+
+#: library/customizer.php:447
+msgid "Post Meta"
+msgstr ""
+
+#: library/customizer.php:462
+msgid "Post Category"
+msgstr ""
+
+#: library/customizer.php:493
+msgid "Main Text Color"
+msgstr ""
+
+#: library/customizer.php:507
+msgid "Link Color"
+msgstr ""
+
+#: library/customizer.php:521
+msgid "Link Hover Color"
+msgstr ""
+
+#: library/customizer.php:535
+msgid "Widget Area Background Color"
+msgstr ""
+
+#: library/customizer.php:549
+msgid "Nav Color"
+msgstr ""
+
+#: library/customizer.php:555
+msgid "Light"
+msgstr ""
+
+#: library/customizer.php:556
+msgid "Dark"
+msgstr ""
+
+#: library/customizer.php:562
+msgid "Posts"
+msgstr ""
+
+#: library/customizer.php:573
+msgid "Display Categories"
+msgstr ""
+
+#: library/customizer.php:586
+msgid "Display Author"
+msgstr ""
+
+#: library/customizer.php:599
+msgid "Display Date"
+msgstr ""
+
+#: library/customizer.php:612
+msgid "Display Comment Count"
+msgstr ""
+
+#: library/customizer.php:620
+msgid "Footer"
+msgstr ""
+
+#: library/customizer.php:632
+msgid "Extended Footer Columns"
+msgstr ""
+
+#: library/customizer.php:638
+msgid "1 Column"
+msgstr ""
+
+#: library/customizer.php:639
+msgid "2 Columns"
+msgstr ""
+
+#: library/customizer.php:640
+msgid "3 Columns"
+msgstr ""
+
+#: library/customizer.php:641
+msgid "4 Columns"
+msgstr ""
+
+#: library/customizer.php:642
+msgid "6 Columns"
+msgstr ""
+
+#: library/customizer.php:653
+msgid "Copyright Notice"
+msgstr ""
+
+#: library/import-export.php:17 library/import-export.php:29
+msgid "Import/Export"
+msgstr ""
+
+#: library/import-export.php:29
+msgid "Import/Export Theme Options"
+msgstr ""
+
+#: library/import-export.php:63
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr ""
+
+#: library/import-export.php:67
+msgid "Security issue."
+msgstr ""
+
+#: library/import-export.php:69
+msgid "Please select a file from your desktop."
+msgstr ""
+
+#: library/import-export.php:76
+msgid "Import successful."
+msgstr ""
+
+#: library/import-export.php:81
+msgid "Import Theme Options"
+msgstr ""
+
+#: library/import-export.php:82
+msgid ""
+"Choose the JSON file named \"theme-options-export.json\" to upload your "
+"theme options, then click the Upload file and import button below."
+msgstr ""
+
+#: library/import-export.php:85
+msgid "Export Theme Options"
+msgstr ""
+
+#: library/import-export.php:86
+msgid ""
+"When you click the button below, WordPress will create a JSON file for you "
+"to save to your computer."
+msgstr ""
+
+#: library/import-export.php:87
+msgid "This format will contain your current theme options and custom CSS."
+msgstr ""
+
+#: library/import-export.php:88
+msgid ""
+"Once you've saved the download file, you can use the Import function in "
+"another WordPress installation to import the theme options from this site."
+msgstr ""
+
+#: library/import-export.php:90
+msgid "Download export file"
+msgstr ""
+
+#: library/import-export.php:105
+msgid "Security check"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:9
+msgid "Custom Text Widget with Image"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:11
+msgid "Image & Text"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:81
+msgid "Title:"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:84
+msgid "Image:"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:86
+msgid "Select Image"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:86
+msgid "Remove Image"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:89
+msgid "URL:"
+msgstr ""
+
+#: library/widgets/widget-image-icon.php:94
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: search.php:21
+msgid " search results for"
+msgstr ""
+
+#: sidebar.php:18
+msgid "Default Widget"
+msgstr ""
+
+#: sidebar.php:19
+#, php-format
+msgid ""
+"This is just a default widget. It'll disappear as soon as you add your own "
+"widgets on the %sWidgets admin page%s."
+msgstr ""
+
+#: sidebar.php:21
+msgid "Below is an example of an unordered list."
+msgstr ""
+
+#: sidebar.php:23
+msgid "List item one"
+msgstr ""
+
+#: sidebar.php:24
+msgid "List item two"
+msgstr ""
+
+#: sidebar.php:25
+msgid "List item three"
+msgstr ""
+
+#: sidebar.php:26
+msgid "List item four"
+msgstr ""
+
+#: single.php:16
+msgid "Post navigation"
+msgstr ""
+
+#: single.php:18
+msgid "&larr; Previous Image"
+msgstr ""
+
+#: single.php:19
+msgid "Next Image &rarr;"
+msgstr ""
+
+#: single.php:21
+msgid "&larr; %title"
+msgstr ""
+
+#: single.php:22
+msgid "%title &rarr;"
+msgstr ""
